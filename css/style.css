@@ -141,6 +141,11 @@ h4 {
   align-items: center;
   text-align: center;
 }
+@media(max-width:768px){
+  .row{
+    margin-top: 90px;
+  }
+}
 .row .text {
   text-align: right;
 }
